@@ -2,8 +2,8 @@
 //  SumOfTwoNumberIndex.swift
 //  Algorithms
 //
-//  Created by Riken Shah on 09/08/20.
-//  Copyright © 2020 Riken Shah. All rights reserved.
+//  Created by Shrunkita on 09/08/20.
+//  Copyright © 2020 Shrunkita. All rights reserved.
 //
 
 import Foundation
